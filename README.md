@@ -1,4 +1,4 @@
-# 📊 Business Sales Performance Analytics Dashboard
+<img width="1278" height="717" alt="Screenshot 2026-07-24 192823" src="https://github.com/user-attachments/assets/2a53f7dd-8af1-493a-8753-2647c9a5bdab" /># 📊 Business Sales Performance Analytics Dashboard
 
 ## 📌 Project Overview
 
@@ -112,38 +112,6 @@ Based on the analysis, the following recommendations can help improve business p
 - Improve promotional campaigns in lower-performing regions.
 - Continue monitoring monthly sales trends for seasonal planning.
 - Optimize shipping operations to improve customer satisfaction.
-
----
-
-## 📷 Dashboard Preview
-
-> Add your dashboard screenshot here after uploading it to the **Images** folder.
-
-```markdown
-![Dashboard](Images/Dashboard.png)
-```
-
----
-
-## 📁 Repository Structure
-
-```
-Business-Sales-Performance-Analytics
-│
-├── Dataset
-│   └── Superstore.xlsx
-│
-├── Dashboard
-│   └── Business_Sales_Performance_Analytics.pbix
-│
-├── Images
-│   └── Dashboard.png
-│
-├── Report
-│   └── Business_Sales_Analytics_Report.pdf
-│
-└── README.md
-```
 
 ---
 
